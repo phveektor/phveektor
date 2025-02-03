@@ -42,3 +42,21 @@
     <h2 style="color: #34495e;">📞 Let’s Connect!</h2>
     <p>I’m always eager to network with <strong>data enthusiasts, recruiters, and potential collaborators</strong>. 
     Feel free to reach out if you're looking for a <strong>dedicated data expert</strong> to drive impactful insights and performance improvements.</p>
+<h2 style="color: #34495e; text-align: center;">🤝 Follow Me</h2>
+
+<div style="text-align: center;">
+    <!-- GitHub -->
+    <a href="https://github.com/phveektor" target="_blank" style="text-decoration: none; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40">
+        <button style="background-color: #2c3e50; color: white; border: none; padding: 8px 15px; font-size: 16px; border-radius: 5px; cursor: pointer; margin-left: 10px;">
+            Follow on GitHub
+        </button>
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/segunogunyemi/" target="_blank" style="text-decoration: none; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40">
+        <button style="background-color: #0077b5; color: white; border: none; padding: 8px 15px; font-size: 16px; border-radius: 5px; cursor: pointer; margin-left: 10px;">
+            Connect on LinkedIn
+        </button>
+    </a>
+</div>
